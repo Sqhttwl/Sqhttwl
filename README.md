@@ -9,3 +9,5 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AP-Kai)
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemonameless)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=)
